@@ -1,3 +1,4 @@
+'use client'
 // Drop this file's default export into `app/page.tsx` of a Next.js 13/14 project
 // No external services. No images. Deployable on Vercel.
 // Styling uses Tailwind classes (Next.js + Tailwind template recommended).
